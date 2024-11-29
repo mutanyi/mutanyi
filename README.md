@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mutanyi
 - 👀 I’m interested in software development PHP, Python, JavaScript and related frameworks.
-- 🌱 I’m currently learning Rust.
-- 💞️ I’m looking to collaborate on customizing Open Source CRM / HRM stsyems.
+- 💞️ I’m looking to collaborate on customizing Open Source ERP / CRM / HRM systems.
 - 📫 How to reach me omutanyi@rocketmail.com
